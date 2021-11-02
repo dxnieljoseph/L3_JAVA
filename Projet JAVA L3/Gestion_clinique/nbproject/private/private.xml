@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/entities/Secretaire.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/entities/RendezVous.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/entities/Prestation.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/entities/ResponsablePrestation.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/view/v_home.fxml</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/view/SercretaireController.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/view/ResponsableprestationController.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/dao/UserDao.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/dao/PrestationDao.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/services/Iservice.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/view/v_patient.fxml</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/view/v_sercretaire.fxml</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/view/v_connexion.fxml</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/entities/Medecin.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/dao/SecretaireDao.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/view/CreercompteclientController.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/dao/ConsultationDao.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/view/HomeController.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/entities/Consultation.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/dao/OrdenanceDao.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/view/PatientController.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/entities/User.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/view/ConnexionController.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/dao/IDao.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/dao/MedecinDao.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/dao/DossierMedicalDao.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/dao/DataBase.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/entities/Ordenance.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/view/v_creercompteclient.fxml</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/services/service.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/entities/Medicament.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/view/v_responsableprestation.fxml</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/entities/DossierMedical.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/dao/PatientDao.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/view/v_medecin.fxml</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/test/main.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/entities/Patient.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/dao/MedicamentDao.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/view/MedecinController.java</file>
+            <file>file:/C:/Users/Mr%20Demba%20Ndiaye/Desktop/Java%20L3/Gestion%20des%20RV%20d’une%20Clinique/Gestion_clinique/src/dao/RendezVousDao.java</file>
+        </group>
+    </open-files>
+</project-private>
